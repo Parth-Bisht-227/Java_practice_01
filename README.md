@@ -1,4 +1,3 @@
-# New
+# Some DSA Practice codes
 
-
-Some code practice...
+Basic Codes for future reference!
